@@ -3,7 +3,11 @@
 int main()
 {
     printf("Hello World!\n");
-    printf("Creating new branch Featurel successfully!\n");
+<<<<<<< HEAD
+    printf("Creating new branch featurel successfully!\n");
+=======
+    printf("Creating new branch featurel successfully!\n");
+>>>>>>> featurel
     return 0;
 
 }
