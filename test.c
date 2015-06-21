@@ -3,7 +3,7 @@
 int main()
 {
     printf("Hello World!\n");
-    printf("Creating new branch successfully!\n");
+    printf("Creating new branch featurel successfully!\n");
     return 0;
 
 }
