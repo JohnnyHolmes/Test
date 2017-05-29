@@ -32,7 +32,7 @@ class SomeClass:
 ### LaTeX 公式
 ![](http://latex.codecogs.com/gif.latex?Fib(n)=\frac{ \\left(\\phi ^{n} -\\gamma^{n} \\right ) }{\\sqrt{5}})
 
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
+![](http://latex.codecogs.com/gif.latex?\\frac{x}{y})
 
 作者：Deep Reader
 链接：https://www.zhihu.com/question/26887527/answer/43166739
