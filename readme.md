@@ -1,4 +1,4 @@
-rkdown]
+[markdown]
 
 **马克飞象**是一款专为印象笔记（Evernote）打造的Markdown编辑器，通过精心的设计与技术实现，配合印象笔记强大的存储和同步功能，带来前所未有的书写体验。特点概述：
  
@@ -30,7 +30,7 @@ class SomeClass:
 ... prompt'''
 ```
 ### LaTeX 公式
-
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 可以创建行内公式，例如 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$。或者块级公式：
 
 $$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
