@@ -30,11 +30,11 @@ class SomeClass:
 ... prompt'''
 ```
 ### LaTeX 公式
-![](http://latex.codecogs.com/gif.latex?Fib(n)=\frac{ \\left(\\phi ^{n} -\\gamma^{n} \\right ) }{\\sqrt{5}})
+![](http://latex.codecogs.com/gif.latex?\\Fib(n)=\frac{ \\left(\\phi ^{n} -\\gamma^{n} \\right ) }{\\sqrt{5}})
 
 ![](http://latex.codecogs.com/gif.latex?\\frac{x}{y})
-![](http://latex.codecogs.com/gif.latex?\\frac{-b \\pm \\ sqrt{b^2-4ac}}{2a})
-
+![](http://latex.codecogs.com/gif.latex?\\frac{-b\\sqrt{b^2-4ac}}{2a})
+![](http://latex.codecogs.com/gif.latex?\\frac{-b\\pm \\sqrt{b^2-4ac})}{2a})
 
 ### 表格
 | Item      |    Value | Qty  |
