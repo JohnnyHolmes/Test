@@ -34,7 +34,7 @@ class SomeClass:
 
 ![](http://latex.codecogs.com/gif.latex?\\frac{x}{y})
 ![](http://latex.codecogs.com/gif.latex?\\frac{-b\\sqrt{b^2-4ac}}{2a})
-![](http://latex.codecogs.com/gif.latex?\\frac{-b\\pm \\sqrt{b^2-4ac}}{2a})
+![](http://latex.codecogs.com/gif.latex?\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a})
 
 ### 表格
 | Item      |    Value | Qty  |
